@@ -1,8 +1,8 @@
 ==============
-MoSeS-Server
+MoSeS-Server (DISCONTINUED)
 ==============
 
-This is the backend for the Mobile Sensing System (MoSeS)
+This is the backend for the Mobile Sensing System (MoSeS) project @ Telecooperation Lab, TU Darmstadt
 
 ==============
 
