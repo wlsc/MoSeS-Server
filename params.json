@@ -1,0 +1,6 @@
+{
+  "name": "MoSeS server",
+  "tagline": "Backend for the Mobile Sensing System (MoSeS), a Telecooperation Lab project @ TU Darmstadt. (DISCONTINUED)",
+  "body": "==============\r\nMoSeS Server (DISCONTINUED)\r\n==============\r\n\r\nThis is the backend for the Mobile Sensing System (MoSeS) project @ Telecooperation Lab, TU Darmstadt\r\n\r\n==============\r\n\r\nWelcome to MoSeS!\r\n\r\nThe Mobile Sensing System (MoSeS) was founded and originally developed in Telecooperation Lab of TU Darmstadt in 2011 by: \r\n\r\nWladimir Schmidt, \r\nZijad Maksuti, \r\nJaco Hofmann,\r\nSimon Leisching.\r\n\r\nThe further development of the MoSeS platform was accomplished in 2012 by:\r\n\r\nSandra Christina Amend,\r\nIbrahim Alyahya,\r\nFehmi Belhadj,\r\nFlorian Schnell.\r\n\r\nIn the summer of 2013 Wladimir Schmidt and Zijad Maksuti started working on improving of MoSeS platform.\r\n\r\nThe MoSeS project started and being developed under supervision of Smart Urban Networks's area head Dr. Immanuel Schweizer.\r\n\r\nMore info about Telecooperation Lab on the website: http://www.tk.informatik.tu-darmstadt.de/\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
